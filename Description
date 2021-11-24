@@ -1,0 +1,2 @@
+Basically i used python libraries to make small application. I used tkinter for GUI and sqlite3 to store data in backend. 
+Both these libraries made to create GUI where appliction can store books names, author names and some important data and retrieve them later.
